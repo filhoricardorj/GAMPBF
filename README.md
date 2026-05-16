@@ -4,7 +4,7 @@ Mod de DayZ para corrigir bugs relacionados à compatibilidade entre AC-Mod-Pack
 
 Versão: 1.0  
 Autores: Thaís (@thaai_n) & Lucas (@luka__is)  
-Créditos: João Ricardo (@kerodrach)
+Créditos: João Ricardo (@filhoricardorj)
 
 ## Estrutura do Projeto
 
